@@ -12,7 +12,10 @@
                 "riprendi",
                 "riproduci",
                 "fai partire",
-                "esegui"
+                "esegui",
+                "di far partire un po di musica",
+                "di farmi ascoltare un po di musica",
+                "di riprodurre qualche canzone"
             ]
         },
         {
@@ -24,7 +27,8 @@
                 "fermarsi",
                 "silenzia",
                 "ferma la musica",
-                "stoppa"
+                "stoppa",
+                "di mettere in pausa",
             ]
         },
         {
@@ -36,7 +40,9 @@
                 "avanti",
                 "vai avanti",
                 "passa alla prossima",
-                "skippa"
+                "skippa",
+                "di mandare avanti",
+                "di passare alla prossima"
             ]
         },
         {
@@ -46,7 +52,8 @@
                 "tornare alla precedente {canzone|traccia|musica}",
                 "{precedente|precedenti} {canzone|canzoni|traccia|tracce|musica}",
                 "{torna|tornare} indietro",
-                "rimetti quella di prima"
+                "rimetti quella di prima",
+                "di tornare indietro"
             ]
         },
         {
@@ -56,7 +63,8 @@
             },
             "samples": [
                 "{cambiare|impostare|cambia|cambia il|setta il|imposta il|imposta} volume a {-|VOLUMELEVEL}",
-                "volume {-|VOLUMELEVEL}"
+                "volume {-|VOLUMELEVEL}",
+                "di {cambiare|impostare} il volume a {-|VOLUMELEVEL}"
             ]
         },
         {
